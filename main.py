@@ -7,7 +7,7 @@ from state import AnketaState, SherikState, HodimState, UstozState, ShogirdState
 from aiogram.fsm.context import FSMContext
 
 
-BOT_TOKEN = ""
+BOT_TOKEN = "Your token"
 ADMIN_ID = "Your id"
 
 dp = Dispatcher()
